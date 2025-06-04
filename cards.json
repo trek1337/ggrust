@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Дурак",
+    "description": "Шут, Дурак, также Безумец, Глупец (англ. The Fool, фр. Le Mat, итал. Il Matto) — один из 22 старших арканов в колодах Таро, нулевая карта.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
+  },
+  {
+    "name": "Маг",
+    "description": "Маг, также фокусник, фигляр, — карта № 1 старших арканов в колоде Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg"
+  },
+  {
+    "name": "Верховная Жрица",
+    "description": "Верховная Жрица, Папесса, Попадья — карта № 2 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg"
+  },
+  {
+    "name": "Императрица",
+    "description": "Императрица или хозяйка — карта № 3 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg"
+  },
+  {
+    "name": "Император",
+    "description": "Ка́рты таро́ — колода карт, используемая с середины XIV века в различных частях Европы для карточных игр (итальянский tarocchi, французский tarot и австрийский Königrufen), во многие из которых играют и сегодня. С конца XVIII века карты таро стали использоваться и для гадания.",
+    "image": ""
+  },
+  {
+    "name": "Иерофант",
+    "description": "Ка́рты таро́ — колода карт, используемая с середины XIV века в различных частях Европы для карточных игр (итальянский tarocchi, французский tarot и австрийский Königrufen), во многие из которых играют и сегодня. С конца XVIII века карты таро стали использоваться и для гадания.",
+    "image": ""
+  },
+  {
+    "name": "Влюблённые",
+    "description": "Влюблённые (Амур) — карта № 6 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg"
+  },
+  {
+    "name": "Колесница",
+    "description": "Колесница, карета — карта № 7 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
+  },
+  {
+    "name": "Сила",
+    "description": "Сила — карта № 8 старших арканов колоды Таро. ",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg"
+  },
+  {
+    "name": "Отшельник",
+    "description": "Отшельник — карта № 9 старших арканов колоды Таро. Используется преимущественно для гаданий.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg"
+  },
+  {
+    "name": "Колесо Фортуны",
+    "description": "Колесо Судьбы, Колесо Фортуны — карта № 10 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg"
+  },
+  {
+    "name": "Справедливость",
+    "description": "Справедливость (Правосудие, Юстиция) — в ряде колод № 11 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg"
+  },
+  {
+    "name": "Повешенный",
+    "description": "Повешенный — карта № 12 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg"
+  },
+  {
+    "name": "Смерть",
+    "description": "Смерть (XIII) — карта № 13 старших арканов колоды Таро. Она используется в карточных играх Таро, а также в гадании. Карта обычно изображает Мрачного Жнеца, и при использовании для гадания часто интерпретируется как означающая серьёзные изменения (как отрицательные, так и положительные) в жизни человека.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg"
+  },
+  {
+    "name": "Умеренность",
+    "description": "Умеренность ― карта № 14 старших арканов колоды Таро. Она используется в карточных играх Таро, а также в гадании.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg"
+  },
+  {
+    "name": "Дьявол",
+    "description": "Дьявол (XV) — карта № 15 старших арканов колоды Таро. Она используется в карточных играх Таро, а также в гадании. Карта изображает Дьявола.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg"
+  },
+  {
+    "name": "Башня",
+    "description": "Ка́рты таро́ — колода карт, используемая с середины XIV века в различных частях Европы для карточных игр (итальянский tarocchi, французский tarot и австрийский Königrufen), во многие из которых играют и сегодня. С конца XVIII века карты таро стали использоваться и для гадания.",
+    "image": ""
+  },
+  {
+    "name": "Звезда",
+    "description": "Звезда — 17-я карта Старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg"
+  },
+  {
+    "name": "Луна",
+    "description": "Луна (XVIII) — 18-я карта Старших арканов колоды Таро.  Используется в гаданиях, медитации и ассоциативных психологических практиках.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
+  },
+  {
+    "name": "Солнце",
+    "description": "Ка́рты таро́ — колода карт, используемая с середины XIV века в различных частях Европы для карточных игр (итальянский tarocchi, французский tarot и австрийский Königrufen), во многие из которых играют и сегодня. С конца XVIII века карты таро стали использоваться и для гадания.",
+    "image": ""
+  },
+  {
+    "name": "Суд",
+    "description": "Суд, Воскресение — карта № 20 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg"
+  },
+  {
+    "name": "Мир",
+    "description": "Мир — карта № 21 или в других колодах № 22 старших арканов колоды Таро.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg"
+  }
+]
+
